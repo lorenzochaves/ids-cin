@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-multi-stage-approach-for-hierarchical/network-intrusion-detection-on-cicids2017)](https://paperswithcode.com/sota/network-intrusion-detection-on-cicids2017?p=a-novel-multi-stage-approach-for-hierarchical)
 
 # A Novel Multi-Stage Approach for Hierarchical Intrusion Detection - TNSM 2023
 
